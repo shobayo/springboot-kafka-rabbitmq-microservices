@@ -24,6 +24,7 @@ public class OrderProducer {
         this.kafkaTemplate = kafkaTemplate;
     }
 
+
     public void sendMessage(OrderEvent event){
         LOGGER.info(String.format("Order event => %s", event.toString()));
 
