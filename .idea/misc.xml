@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/v3/springboot-microservices/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/v3/springboot-microservices/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/v3/springboot-microservices/employee-service/pom.xml" />
+        <option value="$PROJECT_DIR$/v3/springboot-microservices/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/v3/springboot-microservices/department-service/pom.xml" />
+        <option value="$PROJECT_DIR$/v3/springboot-microservices/organization-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-rest-api/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-microservices/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-microservices/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-microservices/employee-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-microservices/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-microservices/department-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-microservices/organization-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-kafka-microservices/base-domains/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-kafka-microservices/email-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-kafka-microservices/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-kafka-microservices/stock-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-restful-webservices/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-rabbitmq-microservices/email-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-rabbitmq-microservices/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-rabbitmq-microservices/stock-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
